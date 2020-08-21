@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SigniticPushOWA", "ConsoleApp1\SigniticPushOWA.csproj", "{C9C63448-E02A-4084-8A80-449C2A7377FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{777AA531-FB7A-4598-A580-2CC2EFEFC76D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9C63448-E02A-4084-8A80-449C2A7377FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9C63448-E02A-4084-8A80-449C2A7377FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9C63448-E02A-4084-8A80-449C2A7377FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9C63448-E02A-4084-8A80-449C2A7377FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{777AA531-FB7A-4598-A580-2CC2EFEFC76D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{777AA531-FB7A-4598-A580-2CC2EFEFC76D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{777AA531-FB7A-4598-A580-2CC2EFEFC76D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{777AA531-FB7A-4598-A580-2CC2EFEFC76D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDC0A994-590C-4AE5-AE52-AEC74F2E771D}
+	EndGlobalSection
+EndGlobal

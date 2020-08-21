@@ -1,0 +1,17 @@
+C:\Users\Martin\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Exchange.WebServices.Auth.dll
+C:\Users\Martin\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Exchange.WebServices.dll
+C:\Users\Martin\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Martin\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.IdentityModel.Extensions.dll
+C:\Users\Martin\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Exchange.WebServices.pdb
+C:\Users\Martin\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Exchange.WebServices.xml
+C:\Users\Martin\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Exchange.WebServices.Auth.pdb
+C:\Users\Martin\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Exchange.WebServices.Auth.xml
+C:\Users\Martin\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Martin\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\SigniticPushOWA.csproj.CoreCompileInputs.cache
+C:\Users\Martin\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\SigniticPushOWA.csproj.CopyComplete
+C:\Users\Martin\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\SigniticPushOWA.pdb
+C:\Users\Martin\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\SigniticPushOWA.pdb
+C:\Users\Martin\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\SigniticPushOWA.dll.config
+C:\Users\Martin\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\SigniticPushOWA.dll
+C:\Users\Martin\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\SigniticPushOWA.dll
+C:\Users\Martin\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\SigniticPushOWA.csprojAssemblyReference.cache
