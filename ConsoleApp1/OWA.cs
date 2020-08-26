@@ -8,7 +8,7 @@ namespace OWAUtility
 {
     public class OWA
     {
-        public void Start(string[] args)
+        static void Main(string[] args)
         {
 
             MainAsync(args).Wait();
