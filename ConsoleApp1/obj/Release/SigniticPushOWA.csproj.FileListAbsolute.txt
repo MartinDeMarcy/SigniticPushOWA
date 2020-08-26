@@ -1,5 +1,3 @@
-C:\Users\Martin\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\SigniticPushOWA.dll.config
-C:\Users\Martin\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\SigniticPushOWA.dll
 C:\Users\Martin\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\SigniticPushOWA.pdb
 C:\Users\Martin\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\Microsoft.Exchange.WebServices.Auth.dll
 C:\Users\Martin\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\Microsoft.Exchange.WebServices.dll
@@ -12,6 +10,12 @@ C:\Users\Martin\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\Microsoft.Ident
 C:\Users\Martin\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\SigniticPushOWA.csprojAssemblyReference.cache
 C:\Users\Martin\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\SigniticPushOWA.csproj.CoreCompileInputs.cache
 C:\Users\Martin\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\SigniticPushOWA.csproj.CopyComplete
-C:\Users\Martin\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\SigniticPushOWA.dll
 C:\Users\Martin\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\SigniticPushOWA.pdb
 C:\Users\Martin\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\SigniticPushOWA.exe
+C:\Users\Martin\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\SigniticPushOWA.exe.config
+C:\Users\Martin\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\SigniticPushOWA.exe.manifest
+C:\Users\Martin\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\SigniticPushOWA.application
+C:\Users\Martin\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\SigniticPushOWA.exe
+C:\Users\Martin\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\Microsoft.IdentityModel.Extensions.dll
+C:\Users\Martin\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\SigniticPushOWA.exe.manifest
+C:\Users\Martin\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\SigniticPushOWA.application
