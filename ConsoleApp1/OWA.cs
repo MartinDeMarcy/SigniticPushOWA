@@ -32,7 +32,7 @@ namespace OWAUtility
             {
                 OWAConfig.Dictionary.Add("signaturehtml", signature);
             }
-           
+
             OWAConfig.Update();
         }
 
