@@ -12,7 +12,7 @@ namespace OWAUtility
         {
 
             MainAsync(args).Wait();
-
+            Console.WriteLine($"Error acquiring access token: {args.ToString()}");
         }
 
         static void SetSigniture(ExchangeService service, string path)
